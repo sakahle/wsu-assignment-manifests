@@ -11,4 +11,6 @@ Some starter templates are defined in this repository. The module instructors wi
 
 Prior to class, please download this repo.
 
+Prior to class, please download Docker Desktop.
+
 Prior to class, please download and install DBeaver.  We will help you set it up and access Work Order Pro as well as your Group Project.
