@@ -3,7 +3,7 @@
 This repo will contain your work for the following assignments:
 
     DevOps Assignment 1
-    Database Design Assignments 1 - 4 /5
+    Database Design Assignments 1 - 5
 
 Your assignment submissions will be in the Assignments folder in this repository.
 
