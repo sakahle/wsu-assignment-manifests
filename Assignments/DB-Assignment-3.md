@@ -6,7 +6,6 @@
 - What are the basic data types
 - Default values / Null values
 - Check constraints
-- Database Access
 
 ## Group Project Physical Model Idea
 
