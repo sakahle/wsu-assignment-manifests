@@ -16,7 +16,7 @@ Clone the assignment repository.  The assignment repository will include a scrip
 2. Build a container image using the Dockerfile
 3. Start / run a container using the container image with the [provided environment variables](variables.env)
 *Hint: See the [Docker CLI documentation](https://docs.docker.com/reference/cli/docker/) on how to use a file for environment variables.*
-4. Run the following SQL query to validate connection `SELECT * from school.students`
+4. Run the following SQL query to validate connection `SELECT * from school.students` *Refer to [DBeaver Usage Instructions](./DBeaver%20Usage%20Instructions.pdf) on how to use the DBeaver Client*
 
 ## Deliverable(s)
 
